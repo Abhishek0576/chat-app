@@ -3,7 +3,6 @@ import ReactDOM from 'react-dom';
 
 const ChatFeed = (props) => {
     console.log(props);
-
     return(
         <div>
             ChatFeed
